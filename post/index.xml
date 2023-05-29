@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on TLJ</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in News on TLJ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Store Grand Open</title>
+      <link>http://example.org/post/chapter-6/</link>
+      <pubDate>Fri, 14 Apr 2023 11:25:05 -0400</pubDate>
+      
+      <guid>http://example.org/post/chapter-6/</guid>
+      <description>Chao Chen opened this bakery with joy.</description>
+    </item>
+    
+  </channel>
+</rss>
